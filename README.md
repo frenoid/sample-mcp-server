@@ -8,7 +8,15 @@ Follow the guide [Build an MCP server](https://modelcontextprotocol.io/docs/deve
 ## How to run
 
 ### Clone the repository
-TBC
+Clone the Github repository
+```bash
+git clone git@github.com:frenoid/sample-mcp-server.git
+```
+
+Enter the directory
+```bash
+cd sample-mcp-server
+```
 
 
 ### Run the server
